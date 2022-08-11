@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Male_radiobox-style</name>
+   <tag></tag>
+   <elementGuidId>626d7e14-e342-4304-ac8b-91bcb6b2af0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#gender-section-key > div.mobile-form__checkbox.js-radio > div.mobile-form__checkbox__button > span.radiobox-style</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gender-section-key']/div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>96bb89c6-87dc-4280-89fc-1e5d7ff5b487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radiobox-style</value>
+      <webElementGuid>80790883-f2c9-4ec6-a437-ea901b70adb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gender-section-key&quot;)/div[@class=&quot;mobile-form__checkbox js-radio&quot;]/div[@class=&quot;mobile-form__checkbox__button&quot;]/span[@class=&quot;radiobox-style&quot;]</value>
+      <webElementGuid>f9b8a58b-b697-493a-bf4a-6f8a841c0496</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gender-section-key']/div/div[3]/span</value>
+      <webElementGuid>4f1d2f12-c1aa-41d5-a8a4-2ffe8dad33d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/following::span[1]</value>
+      <webElementGuid>1bf6f42a-615f-4cba-a54c-8a82915fb054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[28]/following::span[2]</value>
+      <webElementGuid>98fa1377-430a-4c95-b4e6-a6ee8fd448e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/preceding::span[2]</value>
+      <webElementGuid>7aafb489-2050-4d68-a18d-98fe23a86193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Both'])[1]/preceding::span[4]</value>
+      <webElementGuid>3c30e7c9-5cbf-443a-86da-e3527bcaef79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/span</value>
+      <webElementGuid>adcd4e26-a1ac-43e8-b4dc-e6e96d5d2d30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

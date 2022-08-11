@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase will verify the Tab switching in Homepage</description>
+   <name>CitySearch</name>
+   <tag>Sanity</tag>
+   <comment></comment>
+   <testCaseGuid>ec7f4542-b555-45a8-ad0c-607a274b70df</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a6f747e-6595-4c60-94f1-ea602aed2e62</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a6f747e-6595-4c60-94f1-ea602aed2e62</id>
+      <masked>false</masked>
+      <name>Location</name>
+   </variable>
+</TestCaseEntity>

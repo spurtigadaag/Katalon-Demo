@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select all the available room categorie_d4c7ca</name>
+   <tag></tag>
+   <elementGuidId>9ac800a2-0633-491f-8866-ed035ca36919</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide_pg-roomtype']/div/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mobile-form__checkbox-thumb__icn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06b657ec-f78d-47ee-8daf-1634fd534812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mobile-form__checkbox-thumb__icn</value>
+      <webElementGuid>d33546c4-2ff2-4859-91fc-8632f6e4791f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide_pg-roomtype&quot;)/div[@class=&quot;mb-pg__screen__left&quot;]/div[3]/div[1]/div[@class=&quot;mobile-form__checkbox-thumb js-checkbox&quot;]/div[@class=&quot;mobile-form__checkbox-thumb__icn&quot;]</value>
+      <webElementGuid>d83a2543-5b11-4ed9-8739-3a7d2f9f55f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide_pg-roomtype']/div/div[3]/div/div/div</value>
+      <webElementGuid>1dc814d6-57ae-4ec7-a9b0-ac5a183ee0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select all the available room categories in your PG'])[1]/following::div[4]</value>
+      <webElementGuid>3b2a09a4-7d1f-4631-af03-72a42e411b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Room Categories in your PG'])[1]/following::div[5]</value>
+      <webElementGuid>7fdd6e49-a0ad-4008-ad61-a768df83334e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single'])[1]/preceding::div[1]</value>
+      <webElementGuid>46e4b436-eca5-4944-8fe9-fcf0fc9cef5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Double'])[1]/preceding::div[3]</value>
+      <webElementGuid>c443b7bd-b144-4c62-9a65-d48002d52b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[3]/div/div/div</value>
+      <webElementGuid>f48d5136-30a5-403f-9bd1-fea9bc55b7cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

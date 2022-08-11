@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Login</name>
+   <tag></tag>
+   <elementGuidId>99758d81-8258-41f9-bbf8-1d5054abcf0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;window.open('https://accounts.magicbricks.com/userauth/login', '_blank');fireLoginGTM(event,'Login','Login CTA clicked','');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mb-login__drop-cta</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f2ba4be8-a85a-4a83-8068-70e265e47328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>672ab46c-2742-44eb-8ce2-6c51c20b79b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-login__drop-cta</value>
+      <webElementGuid>d1e3c401-18c1-4e76-8c74-68f546f5afa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>window.open('https://accounts.magicbricks.com/userauth/login', '_blank');fireLoginGTM(event,'Login','Login CTA clicked','');</value>
+      <webElementGuid>1dcbe768-3426-4591-9b45-a364c5edf693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>4e2dd65d-83ee-452e-b78f-bbe0b3afdb7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mb-home homeIndex&quot;]/header[@class=&quot;mb-header&quot;]/section[@class=&quot;mb-header__main&quot;]/div[@class=&quot;mb-container mb-header__main__section&quot;]/div[@class=&quot;mb-header__main__login js-menu-container active&quot;]/div[@class=&quot;mb-header__main__dropdown mb-login js-menu-drop active swiper-created&quot;]/div[@class=&quot;mb-login__box signup-box&quot;]/a[@class=&quot;mb-login__drop-cta&quot;]</value>
+      <webElementGuid>a882a932-3b74-4922-baea-e8c31a32354d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;window.open('https://accounts.magicbricks.com/userauth/login', '_blank');fireLoginGTM(event,'Login','Login CTA clicked','');&quot;]</value>
+      <webElementGuid>2d8b3e8e-d9c5-4109-b50c-bc91bdf3783f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Login')])[2]</value>
+      <webElementGuid>002e2688-5442-4d84-bdbd-f1a51cfe9b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/following::a[1]</value>
+      <webElementGuid>ac458865-de67-4a76-bad4-c8fdbe0e1311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommendations'])[1]/following::a[2]</value>
+      <webElementGuid>6a0dff2f-9830-40d0-8a79-76b5a355ef56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/preceding::a[1]</value>
+      <webElementGuid>80dfe797-0352-40c0-a156-cc349d600e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[9]</value>
+      <webElementGuid>5454949b-5e5f-4c1b-aa1f-0f276c1fd868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/a</value>
+      <webElementGuid>0d1ef64b-8a8e-4291-be3a-0f0d9956912a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>2eb131bd-b259-4b1a-9b02-98769dae0978</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

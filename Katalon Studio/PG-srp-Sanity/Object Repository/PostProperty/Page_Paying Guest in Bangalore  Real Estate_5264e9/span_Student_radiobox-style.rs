@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Student_radiobox-style</name>
+   <tag></tag>
+   <elementGuidId>ba3b8626-df9b-4bd1-8b87-e23b8258dcc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tenant-section-key']/div[2]/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a7310c56-021a-402c-af17-1288ebfea9b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radiobox-style</value>
+      <webElementGuid>80ed2a4f-660d-4c10-8008-8a1fed7a78dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tenant-section-key&quot;)/div[@class=&quot;mobile-form__checkbox js-radio&quot;]/div[@class=&quot;mobile-form__checkbox__button&quot;]/span[@class=&quot;radiobox-style&quot;]</value>
+      <webElementGuid>3cfa7689-d8ea-4eaf-8486-437c7b216cfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tenant-section-key']/div[2]/div[3]/span</value>
+      <webElementGuid>884989a8-aa2c-4a91-857e-5e684abfa03a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student'])[1]/following::span[1]</value>
+      <webElementGuid>2563a1a3-e67f-462b-b872-0c1df2cf8463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Professionals'])[1]/following::span[3]</value>
+      <webElementGuid>a2b9e315-7aae-4bab-857d-ff1b1f2fd4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Both'])[2]/preceding::span[2]</value>
+      <webElementGuid>be225f54-1867-428a-a49a-077a75b138dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make your preferences clear'])[1]/preceding::span[3]</value>
+      <webElementGuid>63baf784-854a-40b0-854b-ae83c2490bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div[3]/span</value>
+      <webElementGuid>c1224b58-cd3d-4e7d-9e4d-0f887e242d14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

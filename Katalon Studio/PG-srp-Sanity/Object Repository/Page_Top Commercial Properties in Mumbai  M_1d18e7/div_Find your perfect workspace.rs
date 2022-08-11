@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Find your perfect workspace</name>
+   <tag></tag>
+   <elementGuidId>afa24fee-167b-4894-9d00-955b6c95507c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home_page_msg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#home_page_msg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>badebdf4-dde7-4b0e-8927-5b44b0730c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-search__heading</value>
+      <webElementGuid>7a7089fd-718b-4e2b-8782-21cd2de74039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>home_page_msg</value>
+      <webElementGuid>4b674209-eb1c-4fbf-87d3-c06ef7d4de29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Find your perfect workspace
+</value>
+      <webElementGuid>915ecedb-9ff8-4e06-a352-d7e97b9e4984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home_page_msg&quot;)</value>
+      <webElementGuid>3f4bc55b-3978-4399-9451-594c3fe1340d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='home_page_msg']</value>
+      <webElementGuid>9e7410db-875e-43a0-b764-43976b5d7c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='commercialIndex']/section/div/div/div</value>
+      <webElementGuid>dae9aa0a-695b-46cb-8345-086f02d52c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay your Rent'])[1]/following::div[3]</value>
+      <webElementGuid>cbcb0b0d-47a0-46df-a973-32b9c6f3e604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Enquiry'])[2]/following::div[4]</value>
+      <webElementGuid>970591eb-ce12-4625-b0e2-890d6dac02da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy'])[2]/preceding::div[1]</value>
+      <webElementGuid>47cbf85d-9d1a-4662-b076-f5dad7611aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find your perfect']/parent::*</value>
+      <webElementGuid>a71cb17d-d9f4-43e6-a99b-4990456af4ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/section/div/div/div</value>
+      <webElementGuid>3740597d-4b51-4ca0-8c8f-9b9bb1a945af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'home_page_msg' and (text() = '
+Find your perfect workspace
+' or . = '
+Find your perfect workspace
+')]</value>
+      <webElementGuid>cf23e572-ea0b-4948-b49b-5aeb6550bda1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

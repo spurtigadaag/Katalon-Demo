@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Unlimited_mbPkg__gridhover mbPkg__gridh_5f5a57</name>
+   <tag></tag>
+   <elementGuidId>b50b052a-5063-48c4-8967-82da28796045</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mbPkg__gridhover.mbPkg__gridhover--2.platinumHover.claimdetail_silver.five-col.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c3fe3e0-805b-4dab-acd0-5339fa2e9831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mbPkg__gridhover mbPkg__gridhover--2 platinumHover claimdetail_silver five-col active</value>
+      <webElementGuid>85b5e6e6-de92-4779-a318-791df9dec434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;pg-grid&quot;]/div[@class=&quot;mbPkg&quot;]/div[@class=&quot;mbPkg__gridcntnt&quot;]/div[@class=&quot;mbPkg__gridhover mbPkg__gridhover--2 platinumHover claimdetail_silver five-col active&quot;]</value>
+      <webElementGuid>32b64b9b-6111-4176-aa08-07b8046c09dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]</value>
+      <webElementGuid>d21c48c5-c1d8-4320-a58d-18abad19f603</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

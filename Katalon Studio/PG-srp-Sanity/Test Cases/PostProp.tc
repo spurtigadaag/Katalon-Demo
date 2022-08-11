@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Testcase will post property in PG</description>
+   <name>PostProp</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <testCaseGuid>5b38136b-779e-432d-8cac-bb04594e4481</testCaseGuid>
+</TestCaseEntity>

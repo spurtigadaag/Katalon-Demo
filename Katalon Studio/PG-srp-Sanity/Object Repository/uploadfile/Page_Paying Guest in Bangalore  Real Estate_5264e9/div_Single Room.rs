@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Single Room</name>
+   <tag></tag>
+   <elementGuidId>34ae55c3-118f-4557-a357-9157fa46732e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='overview_37602']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.upload-pic__category--name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3dd5fb6f-308e-452f-8d85-7e62fc01bbfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upload-pic__category--name</value>
+      <webElementGuid>6958c7af-fec0-442a-8c7b-5f2af7a900ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Single Room</value>
+      <webElementGuid>961c32eb-9a50-4b9b-b9cf-bb93752dd8e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;overview_37602&quot;)/div[@class=&quot;upload-pic__category__list--item--wrapper&quot;]/div[@class=&quot;upload-pic__category__content&quot;]/div[@class=&quot;upload-pic__category--name&quot;]</value>
+      <webElementGuid>c7c5ea8d-6d92-4a05-995e-921d2e04849d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='overview_37602']/div/div[2]/div</value>
+      <webElementGuid>91012eaa-9bab-4713-90df-477505c61717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Photo'])[1]/following::div[2]</value>
+      <webElementGuid>35debd6e-2e03-4a69-a741-1855350b6bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/following::div[3]</value>
+      <webElementGuid>83698e17-c8c4-47e2-922c-3523be01b6f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[31]/preceding::div[1]</value>
+      <webElementGuid>31414024-4c3c-4e5a-aa12-b2bc64e69a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[2]/div</value>
+      <webElementGuid>c309d682-93d6-42e5-a6c3-7fa66a82ddb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Single Room' or . = 'Single Room')]</value>
+      <webElementGuid>a5844406-9a20-4d24-bfcf-1b38d448bae8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

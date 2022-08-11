@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search</name>
+   <tag></tag>
+   <elementGuidId>dbe49ac1-dc6a-497e-9dee-774ec7f67417</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-search__btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick='homepagePGSearchFormURL();fireHomeSearchGTM();']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4902322c-e67f-4d1a-b38f-c99b91c1982d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-search__btn</value>
+      <webElementGuid>879567fc-2fa9-4099-bfc0-40ed2efaacc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>homepagePGSearchFormURL();fireHomeSearchGTM();</value>
+      <webElementGuid>5edfff53-8a13-4fa1-8561-b0b8c17957fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+ Search
+</value>
+      <webElementGuid>6de4dc74-b2ba-4471-a81e-0a9980b3ec4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchFormHolderSection&quot;)/section[@class=&quot;mb-search  mb-search-banner&quot;]/div[@class=&quot;mb-container&quot;]/div[@class=&quot;mb-search-container&quot;]/div[@class=&quot;mb-search__wrap&quot;]/div[@class=&quot;mb-search__btn&quot;]</value>
+      <webElementGuid>b33d07fb-fce5-4f12-b2f9-0738da572bf1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick='homepagePGSearchFormURL();fireHomeSearchGTM();']</value>
+      <webElementGuid>24bc7645-230a-4a15-8e74-4581c3cad36b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='searchFormHolderSection']/section/div/div/div[3]/div[4]</value>
+      <webElementGuid>c81cb0d0-5008-4fbd-99ec-f2081de5fbcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹20000'])[2]/following::div[1]</value>
+      <webElementGuid>d0f62d15-8019-4978-8043-2c98ddf606b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹15000'])[2]/following::div[2]</value>
+      <webElementGuid>9227febc-7f61-44b1-848c-fee19f0c733d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find a PG &amp; Hostel in Bangalore Away from Home'])[1]/preceding::div[7]</value>
+      <webElementGuid>945d9baa-9c05-44bd-a689-a2405c37b77c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Student Friendly PG', &quot;'&quot;, 's')])[1]/preceding::div[11]</value>
+      <webElementGuid>fb7c9fa9-200c-491f-933e-8e0586cdb713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>78621a71-c015-47e7-aaa6-1010391bffbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]</value>
+      <webElementGuid>932ea8f2-7620-44d1-86f1-6e4ef5702c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+ Search
+' or . = '
+ Search
+')]</value>
+      <webElementGuid>9ca03c4e-cc53-4447-868c-14c7f7bdfced</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

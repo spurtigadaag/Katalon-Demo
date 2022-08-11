@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Find a home away from home</name>
+   <tag></tag>
+   <elementGuidId>854a1a82-f144-4cc6-a728-0b8537d84541</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home_page_msg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#home_page_msg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b7ff7e4-e3a9-4b8b-b4d1-ea45aac5d815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-search__heading</value>
+      <webElementGuid>b9036e00-09ae-43e0-ad65-f129c5572f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>home_page_msg</value>
+      <webElementGuid>065837c2-1441-4f08-82cb-4beeb89e02bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Find a home away from home
+</value>
+      <webElementGuid>f744d073-a5bc-4321-8ac6-d43f162e8ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home_page_msg&quot;)</value>
+      <webElementGuid>066ce308-6146-4955-90a4-dd5f16a9bfe2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='home_page_msg']</value>
+      <webElementGuid>b4b3e80a-48d8-48c5-8e93-2e15665805a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='searchFormHolderSection']/section/div/div/div</value>
+      <webElementGuid>a863a38b-3045-4f6f-929d-da55a43caaf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay your Rent'])[1]/following::div[3]</value>
+      <webElementGuid>5bcb529c-e744-45bd-8023-753a5778a308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Enquiry'])[2]/following::div[4]</value>
+      <webElementGuid>1860f207-10da-4d6c-a60c-6f1827eed1d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy'])[2]/preceding::div[1]</value>
+      <webElementGuid>3758b535-519b-4821-80d6-5549343c7038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find a home away from']/parent::*</value>
+      <webElementGuid>3d4a54e9-8a16-4f13-8bd0-576c495be5a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/section/div/div/div</value>
+      <webElementGuid>8c2b7b35-f5d0-455f-8919-2efa0ba83a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'home_page_msg' and (text() = '
+Find a home away from home
+' or . = '
+Find a home away from home
+')]</value>
+      <webElementGuid>150c73c0-a727-47c2-bfc9-f6a8ce55f6b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case will verify already posted property</description>
+   <name>VerifyPostProperty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8aeeb50-b5ae-43b0-9891-b4f636958860</testCaseGuid>
+</TestCaseEntity>

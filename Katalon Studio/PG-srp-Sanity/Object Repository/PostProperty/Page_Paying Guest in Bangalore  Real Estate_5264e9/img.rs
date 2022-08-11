@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>20a18a1a-5777-4def-81a2-8a00173c948e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='image_1452597']/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.upload-pic__subcategory__photo__graphic > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2abceadd-5211-4d18-82e1-069ba4bbb88e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/mbphoto/pg/grd2/original_images/2022/Aug/02/GR2-307839-1452597.jpg</value>
+      <webElementGuid>a5996101-aec9-4f6f-976c-8d33baee27f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;image_1452597&quot;)/div[@class=&quot;upload-pic__subcategory__photo&quot;]/div[@class=&quot;upload-pic__subcategory__photo__graphic&quot;]/img[1]</value>
+      <webElementGuid>d355a632-30bf-4e62-bff2-f5115dcbfd0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='image_1452597']/div/div/img</value>
+      <webElementGuid>2400fac3-6115-4184-9a2b-974943129599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/img</value>
+      <webElementGuid>dd93228c-b251-43cc-a602-eb4a9a69c458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/mbphoto/pg/grd2/original_images/2022/Aug/02/GR2-307839-1452597.jpg']</value>
+      <webElementGuid>95dda8ea-aa57-40ab-b649-e75f916a5c5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

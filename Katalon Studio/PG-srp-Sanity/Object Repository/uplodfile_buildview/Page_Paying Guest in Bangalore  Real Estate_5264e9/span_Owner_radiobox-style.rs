@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Owner_radiobox-style</name>
+   <tag></tag>
+   <elementGuidId>6e2af53e-13fe-4ab4-b752-f6795e35a834</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.radiobox-style</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide_pg-user']/div/div[2]/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>25521843-ec66-4838-a15b-348e3ee21d16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radiobox-style</value>
+      <webElementGuid>f9ea77c7-6ea7-4528-98e7-7d8e97c43605</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide_pg-user&quot;)/div[@class=&quot;mb-pg__screen__left&quot;]/div[2]/div[1]/div[@class=&quot;mobile-form__checkbox js-radio&quot;]/div[@class=&quot;mobile-form__checkbox__button&quot;]/span[@class=&quot;radiobox-style&quot;]</value>
+      <webElementGuid>429dce9b-e477-447f-bdf5-b12b6ca2e028</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide_pg-user']/div/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>9de2b895-3a75-469b-82e7-b4656388a777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner'])[1]/following::span[1]</value>
+      <webElementGuid>a5b54353-0683-40ea-82ba-11d9b36216ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::span[1]</value>
+      <webElementGuid>8afebd21-0e0e-4dd8-ae90-ae0ca3314c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property Manager'])[1]/preceding::span[1]</value>
+      <webElementGuid>d34a47af-0a16-4fad-b489-d6c0748d11c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent'])[1]/preceding::span[2]</value>
+      <webElementGuid>203b222b-7509-4575-ae91-094f09954a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>4d7bc379-ff3d-4c49-81c4-9e52184977a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
